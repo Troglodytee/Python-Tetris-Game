@@ -12,9 +12,9 @@ This is a reproduction of the Tetris NES game.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python contextlib library
-- Python pygame library
-- Python random library
+- Python `contextlib` library
+- Python `pygame` library
+- Python `random` library
 ## Usage
 Use the `LEFT` and the `RIGHT` arrow keys to move pieces horizontaly.
 
